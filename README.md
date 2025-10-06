@@ -1,0 +1,1 @@
+This is Odin project reflection. I would wish to finish this project within a three months period after which i can bw able to build scalable projects and solve complext issues within the engineering ecosystem.
